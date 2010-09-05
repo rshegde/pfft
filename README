@@ -1,0 +1,23 @@
+PFFT --- Pretty Fast Fourier Transform
+======================================
+
+PFFT is a library for performing FFTs on GPUs using OpenCL. It was inspired by FFTW (www.fftw.org) and attempts to match the FFTW interface.
+
+
+FAQ
+---
+
+Q. What licence does PFFT use?
+A. PFFT is released under the MIT Licence.
+
+Q. Do I need to acknowledge this project in my own work?
+A. No, this is not a requirement of the licence. It would however be greatly appreciated by the author, so it is left to your better judgement.
+
+Q. How is the name pronounced?
+A. A sharp exhalation through loosely closed lips, as when demonstrating indignation at the remarks of another.
+
+
+Author
+------
+
+Chris Jones
